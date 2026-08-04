@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    //This is the welcoming message
     printf("Municipal Financial Management System\n");
     printf("Welcome to Windhoek Municipality\n");
 
